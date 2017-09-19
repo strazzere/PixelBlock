@@ -32,6 +32,7 @@ var pixelblock = (function(){
                    {name:'Mailtrack.io', pattern:'mailtrack.io/trace',     url:'http://mailtrack.io'},
                    {name:'ToutApp',      pattern:'go.toutapp.com',         url:'http://toutapp.com'},
                    {name:'Outreach',     pattern:'app.outreach.io',        url:'http://outreach.io'},
+		   {name:'MixMax',       pattern:'track.mixmax.com',       url:'http://mixmax.com'},
                    ];
 
   /*
