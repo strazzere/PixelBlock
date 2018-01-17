@@ -32,7 +32,13 @@ var pixelblock = (function(){
                    {name:'Mailtrack.io', pattern:'mailtrack.io/trace',     url:'http://mailtrack.io'},
                    {name:'ToutApp',      pattern:'go.toutapp.com',         url:'http://toutapp.com'},
                    {name:'Outreach',     pattern:'app.outreach.io',        url:'http://outreach.io'},
-		   {name:'MixMax',       pattern:'track.mixmax.com',       url:'http://mixmax.com'},
+                   {name:'Mixmax',       pattern:'track.mixmax.com/api',   url:'http://mixmax.com'},
+                   {name:'SendGrid',     pattern:'sendgrid.net/wf/open',   url:'http://sendgrid.com'},
+                   {name:'ExactTarget',  pattern:'exct.net/open.aspx',     url:'http://exacttarget.com'},
+                   {name:'Litmus',       pattern:'emltrk.com',             url:'http://litmus.com'},
+                   {name:'dotmailer',    pattern:'trackedlink.net',        url:'http://dotmailer.com'},
+                   {name:'Unknown',      pattern:'mailer.dzone.com/open.php', url:''},
+                   {name:'Unknown',      pattern:'give.islamicreliefcanada.org/smtp.mailopen', url:''}
                    ];
 
   /*
