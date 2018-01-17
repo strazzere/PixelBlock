@@ -39,8 +39,9 @@ var pixelblock = (function(){
                    {name:'dotmailer',    pattern:'trackedlink.net',        url:'http://dotmailer.com'},
                    {name:'Unknown',      pattern:'mailer.dzone.com/open.php', url:''},
                    {name:'Unknown',      pattern:'give.islamicreliefcanada.org/smtp.mailopen', url:''},
-		   {name:'TalentIQ',     pattern:'volkorn.com/t/e/',       url:''},
-		   {name:'TalentIQ',     pattern:'korto.info/t/e/',        url:''}
+                   {name:'TalentIQ',     pattern:'volkorn.com/t/e/',       url:''},
+                   {name:'TalentIQ',     pattern:'korto.info/t/e/',        url:''},
+                   {name:'TalentIQ',     pattern:'dutily.com/t/e/',        url:''}
                    ];
 
   /*
